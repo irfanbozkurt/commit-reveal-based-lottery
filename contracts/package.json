@@ -1,0 +1,13 @@
+{
+  "author": "Irfan Bozkurt",
+  "name": "contracts",
+  "main": "index.js",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "npm": "^9.2.0"
+  }
+}
