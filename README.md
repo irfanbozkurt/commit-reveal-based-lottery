@@ -1,6 +1,6 @@
 # Commit-Reveal Lottery
 
-## Inspiration: https://ethereum.stackexchange.com/a/207
+<h2>Inspiration: <a>https://ethereum.stackexchange.com/a/207</a></h2>
 
 <br>
 
@@ -8,9 +8,9 @@ The application leverages non-malleable user commitments to eliminate the relian
 
 <br>
 
-## Live Demo at: https://commit-reveal-lottery.surge.sh/
+<h2>Live Demo at: <a>https://commit-reveal-lottery.surge.sh/</a></h2>
 
-## [Smart Contract](./contracts/contracts/Lottery.sol), [Snowtrace](https://testnet.snowtrace.io/address/0x02422ce78f81db2dEE4eBDf736C2AFa0b59d5406)
+<h2><a href="https://testnet.snowtrace.io/address/0x02422ce78f81db2dEE4eBDf736C2AFa0b59d5406">Smart Contract Snowtrace</a></h2>
 
 <br>
 
@@ -32,7 +32,7 @@ The application leverages non-malleable user commitments to eliminate the relian
 
 <br>
 
-## Technical Details
+## Details
 
 The lottery operates in rounds, each consisting of a purchase phase and a reveal phase. During the purchase phase, which spans a one-week period, users can purchase lottery tickets to participate in the ongoing lottery. To buy a ticket, users must submit a SHA-3 hash of two values: a random number and their address.
 
