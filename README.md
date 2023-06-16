@@ -1,6 +1,6 @@
 # Commit-Reveal Lottery
 
-<h2>Inspiration: <a>https://ethereum.stackexchange.com/a/207</a></h2>
+Inspiration: https://ethereum.stackexchange.com/a/207
 
 <br>
 
@@ -8,9 +8,11 @@ The application leverages non-malleable user commitments to eliminate the relian
 
 <br>
 
-<h2>Live Demo at: <a>https://commit-reveal-lottery.surge.sh/</a></h2>
-
-<h2><a href="https://testnet.snowtrace.io/address/0x02422ce78f81db2dEE4eBDf736C2AFa0b59d5406">Smart Contract Snowtrace</a></h2>
+Live Demo: https://commit-reveal-lottery.surge.sh/
+<br>
+Snowtrace: [https://testnet.snowtrace.io/address/0x02422ce78f81db2dEE4eBDf736C2AFa0b59d5406](https://testnet.snowtrace.io/address/0x02422ce78f81db2dEE4eBDf736C2AFa0b59d5406)
+<br>
+Smart Contract: [Lottery.sol](./contracts/contracts/Lottery.sol)
 
 <br>
 
